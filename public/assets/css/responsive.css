@@ -1,0 +1,60 @@
+
+/** * ===========* DESKTOP * ============= * **/
+@media (max-width: 1200px) {
+
+
+
+
+
+
+}
+/** * ===========* TABLET * ============= * **/
+@media (max-width: 992px) {
+.navbar-nav .dropdown-menu .dropdown-cart i {
+    float: right;
+    margin-right: 10px;
+    margin-top: 13px;
+}
+
+
+
+
+}
+/** * ===========* MOBILE * ============= * **/
+@media (max-width: 768px) {
+.banner-content .title {
+    font-size: 30px;
+	line-height: 40px;
+}
+.banner-content .subtitle {
+    font-size: 24px;
+    line-height: 30px;
+}
+.milestone-block,.widget,.service-box,.feature-box{
+	margin-bottom:30px;
+}
+.cart-totals {
+    width: 90%;
+}
+.cart-form .update-button{
+	width:100%;
+	margin-top:15px;
+}
+.page-title.page-bg .title {
+    font-size: 24px;
+}
+.sidebar-wrap{
+	margin-top:40px;
+}
+.pricing-content,
+.pricing-box{
+	margin:15px 0;
+}
+
+}/** * ===========* MOBILE * ============= * **/
+@media (max-width: 576px) {
+
+
+
+
+}
